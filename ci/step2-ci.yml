@@ -6,4 +6,4 @@ run_tests:
     - echo "Hi all, my name is Bhrugu Sharma, my student id is 23312843"
     - echo "********** Start Test **********"
     - make test
-    - echo "********** End Test **********"
+    

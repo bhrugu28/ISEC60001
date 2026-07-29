@@ -3,4 +3,7 @@ run_tests:
   before_script:
     - apt-get update && apt-get install make    
   script:
+    - echo "Hi all, my name is Bhrugu Sharma, my student id is 23312843"
+    - echo "********** Start Test **********"
     - make test
+    - echo "********** End Test **********"
